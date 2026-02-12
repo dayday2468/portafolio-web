@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "name": { "first": "Juan", "last": "Perez" },
+      "email": "juan.perez@email.com",
+      "location": { "country": "México" },
+      "picture": { "large": "https://randomuser.me/api/portraits/men/1.jpg" }
+    },
+    {
+      "name": { "first": "Ana", "last": "Lopez" },
+      "email": "ana.lopez@email.com",
+      "location": { "country": "España" },
+      "picture": { "large": "https://randomuser.me/api/portraits/women/2.jpg" }
+    },
+    {
+      "name": { "first": "Carlos", "last": "Ramirez" },
+      "email": "carlos.ramirez@email.com",
+      "location": { "country": "Colombia" },
+      "picture": { "large": "https://randomuser.me/api/portraits/men/3.jpg" }
+    },
+    {
+      "name": { "first": "Laura", "last": "Gomez" },
+      "email": "laura.gomez@email.com",
+      "location": { "country": "Argentina" },
+      "picture": { "large": "https://randomuser.me/api/portraits/women/4.jpg" }
+    },
+    {
+      "name": { "first": "Miguel", "last": "Torres" },
+      "email": "miguel.torres@email.com",
+      "location": { "country": "Chile" },
+      "picture": { "large": "https://randomuser.me/api/portraits/men/5.jpg" }
+    },
+    {
+      "name": { "first": "Sofia", "last": "Diaz" },
+      "email": "sofia.diaz@email.com",
+      "location": { "country": "Perú" },
+      "picture": { "large": "https://randomuser.me/api/portraits/women/6.jpg" }
+    },
+    {
+      "name": { "first": "Luis", "last": "Martinez" },
+      "email": "luis.martinez@email.com",
+      "location": { "country": "México" },
+      "picture": { "large": "https://randomuser.me/api/portraits/men/7.jpg" }
+    },
+    {
+      "name": { "first": "Elena", "last": "Ruiz" },
+      "email": "elena.ruiz@email.com",
+      "location": { "country": "España" },
+      "picture": { "large": "https://randomuser.me/api/portraits/women/8.jpg" }
+    },
+    {
+      "name": { "first": "Pedro", "last": "Santos" },
+      "email": "pedro.santos@email.com",
+      "location": { "country": "Brasil" },
+      "picture": { "large": "https://randomuser.me/api/portraits/men/9.jpg" }
+    },
+    {
+      "name": { "first": "Lucia", "last": "Morales" },
+      "email": "lucia.morales@email.com",
+      "location": { "country": "Uruguay" },
+      "picture": { "large": "https://randomuser.me/api/portraits/women/10.jpg" }
+    }
+  ]
+}
